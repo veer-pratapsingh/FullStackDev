@@ -14,7 +14,7 @@ exports.createTodo = async(req,res) => {
             {
                 success:true,
                 data:response,
-                message:'Entry Created Sucessfully'
+                message:'Entry Created Sucessfully',
             }
         )
     }
