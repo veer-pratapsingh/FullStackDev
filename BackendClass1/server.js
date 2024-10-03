@@ -23,6 +23,7 @@ app.post('/api/cars', (req, res) =>{
     console.log(name);
     console.log(brand);
     res.send("Car Submitted Successfully")
+    
 });
 
 const mongoose = require('mongoose');
