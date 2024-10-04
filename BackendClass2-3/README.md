@@ -8,8 +8,10 @@
 </ul>
 
 <p>Used : </p>
-npm i install
-npm i express
-npm i nodemon
-npm i dotenv
-npm i mongoose
+<ul>
+<li>npm i install</li>
+<li>npm i express</li>
+<li>npm i nodemon</li>
+<li>npm i dotenv</li>
+<li>npm i mongoose</li>
+</ul>
